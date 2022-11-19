@@ -1,0 +1,17 @@
+{
+  "name": "react-component-cli",
+  "version": "1.0.0",
+  "description": "A CLI to create react component with css template",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rcss": "./bin/index.js"
+  },
+  "author": "Qrare",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
