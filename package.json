@@ -1,5 +1,5 @@
 {
-  "name": "react-component-cli",
+  "name": "rcss-component",
   "version": "1.0.0",
   "description": "A CLI to create react component with css template",
   "main": "./bin/index.js",
@@ -12,6 +12,7 @@
   "author": "Qrare",
   "license": "ISC",
   "dependencies": {
+    "findit": "^2.0.0",
     "minimist": "^1.2.7"
   }
 }
