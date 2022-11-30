@@ -12,6 +12,6 @@ To create component folder you have to switch to the folder where you want to pu
 /n
 Then just enter command to create component folder
 ```bash
-rcss 'Your component'
+rcss Component
 ```
 ![Alt Text](https://github.com/Qraree/Qraree/blob/main/2022-11-30_23-32-04.png)
